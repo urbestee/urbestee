@@ -21,8 +21,6 @@
 - 💞️ I’m looking to collaborate on data analysis using AI/ML and geospatial programming project
 - 📫 Reach out to me by email: bellaestias@gmail.com
 
----
-
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -40,7 +38,6 @@
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=urbestee&theme=radical)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=urbestee)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 urbestee/urbestee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
